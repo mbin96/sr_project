@@ -1,0 +1,6 @@
+Script started on 2020-01-31 19:13:01+09:00 [TERM="screen" TTY="/dev/pts/3" COLUMNS="146" LINES="43"]
+(base) mbin96@debian:~/sr_project/RDN/validate$ python train.py --train-file ../../data/DIV2K_x4.h5 --eval-file ../../data/Set5_x4.h5 --outputs-dirr ../../modelM@debian:~/sr_project/RDN/validate$ [K
+[KM(base) mbin96@debian:~/sr_project/RDN/validate$ python train.py --train-file ../../data/DIV2K_x4.h5 --eval-file ../../data/Set5_x4.h5 --outputs-dirr ../../modelM@debian:~/sr_project/RDN/validate$ [K
+[KM(base) mbin96@debian:~/sr_project/RDN/validate$ exit
+
+Script done on 2020-01-31 19:13:12+09:00 [COMMAND_EXIT_CODE="0"]

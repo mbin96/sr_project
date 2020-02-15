@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/mbin96/miniconda3/bin/python"
+    "python.pythonPath": "/home/mbin96/miniconda3/bin/python",
+    "python.dataScience.jupyterServerURI": "http://172.30.1.34:8888/?token=94f1a0f8f88569669ee1701bdfee97a88e837a3cb43bf988077836b155e8ef6a"
 }
